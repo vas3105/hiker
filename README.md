@@ -1,1 +1,2 @@
-# hiker
+# hiker is smart
+
